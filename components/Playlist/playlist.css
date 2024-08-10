@@ -1,0 +1,15 @@
+html,body{
+    background-color: black;
+
+}
+h4 {
+  margin-bottom: 10px;
+}
+.sidebar::-webkit-scrollbar {
+  display: none;
+}
+
+.sidebar {
+  -ms-overflow-style: none;  
+  scrollbar-width: none;  
+}

@@ -1,0 +1,24 @@
+/* Custom styling for the progress bar */
+.audio-progress::-webkit-media-controls-panel {
+  background-color: transparent;
+}
+
+.audio-progress::-webkit-media-slider-thumb {
+  background-color: #3182ce;
+}
+
+.audio-progress::-moz-range-track {
+  background-color: transparent;
+}
+
+.audio-progress::-moz-range-thumb {
+  background-color: #3182ce;
+}
+
+.audio-progress::-ms-track {
+  background-color: transparent;
+}
+
+.audio-progress::-ms-thumb {
+  background-color: #3182ce;
+}
